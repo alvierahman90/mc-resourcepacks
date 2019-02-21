@@ -5,14 +5,14 @@
 
 ## changes
 
-Original | New
+Done | Original | New
 --- | ---
-Pumpkin pie | chicken wrap
-Milk | moccah
-Chicken | Chicken Nuggets
-Baked Potato | Fries
-Cookie | McFlurry
-Cooked Rabbit | Hashbrown
-Steak | Big Mac
-Golden Armour | Uniform
-Carrots | Fruit bag
+Yes | Pumpkin pie | chicken wrap
+Never | Milk | moccah
+Yes | Chicken | Chicken Nuggets
+Yes | Baked Potato | Fries
+Yes | Cookie | McFlurry
+Yes | Cooked Rabbit | Hashbrown
+Yes | Steak | Big Mac
+Yes | Golden Armour | Uniform
+Yes | Carrots | Fruit bag

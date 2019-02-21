@@ -4,5 +4,9 @@
   "language.code": "en_us",
   "item.minecraft.cooked_rabbit": "McDonalds' Hashbrown",
   "item.minecraft.cooked_beef": "McDonalds' Big Mac",
-  "item.minecraft.cooked_chicken": "McDonalds' Chicken Nuggets"
+  "item.minecraft.cooked_chicken": "McDonalds' Chicken Nuggets",
+  "item.minecraft.pumpkin_pie": "Mcdonalds' Chicken Wrap",
+  "item.minecraft.baked_potato": "Mcdonalds' Fries",
+  "item.minecraft.carrot": "McDonalds' Fruit Bag",
+  "item.minecraft.cookie": "McDonalds' McFlurry"
 }
