@@ -6,7 +6,7 @@
 ## changes
 
 Done | Original | New
---- | ---
+--- | --- | ---
 Yes | Pumpkin pie | chicken wrap
 Never | Milk | moccah
 Yes | Chicken | Chicken Nuggets
