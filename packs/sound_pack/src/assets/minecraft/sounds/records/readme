@@ -1,0 +1,21 @@
+assets/minecraft/sounds/records
+
+- this is where the record sounds would be
+- they are all ogg files
+- conversions with sox (http://sox.sourceforge.net/) work quite well in my
+experience
+
+The files are as follows (https://minecraft.gamepedia.com/Music#List):
+
+- 11.ogg
+- 13.ogg
+- blocks.ogg
+- cat.ogg
+- chirp.ogg
+- far.ogg
+- mall.ogg
+- mellohi.ogg
+- stal.ogg
+- strad.ogg
+- wait.ogg
+- ward.ogg
