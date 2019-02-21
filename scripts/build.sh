@@ -9,5 +9,5 @@ fi
 current_directory="$(pwd)"
 cd "$1"
 zip -r -0 "$2" .
-mv "$2" "$current_directory"
+mv "$2" "$current_directory/build"
 
