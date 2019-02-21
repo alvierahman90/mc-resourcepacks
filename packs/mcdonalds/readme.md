@@ -8,7 +8,7 @@
 Done | Original | New
 --- | --- | ---
 Yes | Pumpkin pie | chicken wrap
-Never | Milk | moccah
+Yes | Milk | Moccha McFlurry
 Yes | Chicken | Chicken Nuggets
 Yes | Baked Potato | Fries
 Yes | Cookie | McFlurry
